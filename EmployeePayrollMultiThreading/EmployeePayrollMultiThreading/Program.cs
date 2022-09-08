@@ -2,7 +2,7 @@
 {
     class Progrm
     {
-        public static void main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Welcome To EmployeePayrollMultiThreading Problem");
         }
